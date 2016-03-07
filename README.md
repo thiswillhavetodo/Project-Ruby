@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test First Ruby -- RSpec 3 Edition
 ==========
 
@@ -37,3 +38,7 @@ When you're done, push your changes to your forked repo and then submit a pull r
 ### Credit
 
 This is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
+=======
+# Project-Ruby
+Odin Project Ruby task
+>>>>>>> ce7b3ae5b8a0c7daf80eed649494b9acbdbb9339
